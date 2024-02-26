@@ -1,15 +1,10 @@
-# my-presentation
-Esse repositorio e sobre minha apresenção na web
-
-
-
 <h1 align="center"> Seja bem vinda e bem vindo! </h1>
 <hr />
 <a href="https://github.com/strongreen" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
 <p alinhar="esquerda" >
-  <b>Opa pessoal!</b>
+  <b>Olá pessoal!</b>
 </p>
 <a href="https://www.instagram.com/strongreen/" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
@@ -22,87 +17,34 @@ Eu chamo <b>Pedro Assis</b>.
 </a>
 <p alinhar = "esquerda" >
 Meu nome é Pedro Assis, tenho 22 anos <br />
-Sou Engenheira da Computação, trabalho com Segurança da Informação na @Accenture </b>. <br/>
+Sou Analista e Desenvolvedor de Sistemas, trabalho com Analista de Infra @tambasa </b>. <br/>
 </p>
-Sou pós-graduada em IoT, Ethical Hacking & Cyber ​​Security.
+Sou graduado em Analise e Desenvolvimento de Sistemas pela PUC Minas.
 <br/>
-Faço parte de comunidades da área de segurança da informação e criador de cultura.
-<a href="https://www.linkedin.com/in/herikastrongreen/" target="_blank">
-  <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
-<br>
-Sou palestrante em vários eventos de tecnologia, faço academia e estudo Hardware Hacking
-<p alinhar = "esquerda" >
-Produção de conteúdo de tecnologia para as plataformas:
-</p>
-<p alinhar = "esquerda" >
-<ul>
-  <li><a href="https://youtube.com/herikastrongreen/"> Youtube </a></li>
-  <li><a href="https://instagram.com/strongreen/">Instagram </a></li>
-</ul>
-</p>
-<p alinhar = "esquerda" >
-🚀 Também já palestrei em eventos como:
-  <ul>
-  <li> Dia do Arduino </li>
-  <li> Latinoware </li>
-  <li> Portal Embarcados </li>
-  <li> Programador real </li>
-  <li> RoadSec </li>
-  <li> Hacking no Web Day </li>
-  <li> Festa no campus </li>
-  <li> Bxsec </li>
-  </ul>
-</p>
-</p>
 
 <hr />
 
 **Meus interesses pessoais:**
 
-<img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1612547785236.png" width="400px" />
-
-- 👩‍💻 Experiências adquiridas trabalhando na *@Accenture* com Segurança da informação:
+- 👩‍💻 Experiências adquiridas trabalhando na *@tambasa* com Analista de Infra:
   - AppSec
   - Desenvolvimento seguro
   - Produção de relatórios Técnicos
   - Teste de penetração
   - Forense
-  
-  
-- 👩‍💻 Experiências adquiridas trabalhando na *@KaBuM!* como dev Full Stack, utilizando as stacks:
-  - Perl
-  - Pitão
-  -JS angular
-  - Texto datilografado
-  - PróximoJS
-  -NestJS
-  
+    
   
 - 👾 Meus hobbies são:
-  - Estudar sobre segurança e IoT;
+  - Estudar sobre segurança da Informação;
   - Viajar
   - Academia ( Musculação | Calistenia )
-  - Andar de Longboard;
-  - Massoterapia
-  - Tocar Guitarra | Contra-baixo (tô aprendendo);
-  - Gravar conteúdos;
-  - Ler livros;
   - Hacking de hardware
-  - Arrombamento
   - Hacking de carros
-  - Segurança IoT
-  - Jogar Liga das Lendas;
+  - Jogar jogos de mundo aberto;
 - 💬 Fique a vontade para me ligar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para contato@strongreen.com.
+- 📫 Se quiser pode enviar um email para pedroassis1707@gmail.com.
 
 - 💼 Sou aficionado por tecnologia, por esse motivo estou sempre estudando e evoluindo na minha carreira;
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=strongreen&layout=compact&theme=graywhite&title_color=268bd2" alt="Hérika-Ströngreen" />
-</p>
-<p> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=strongreen&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="Hérika-Ströngreen" />
-</p>
 
 **Linguagens e ferramentas:**  
 
