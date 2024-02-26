@@ -27,17 +27,17 @@ Sou graduado em Analise e Desenvolvimento de Sistemas pela PUC Minas.
 
 **Meus interesses pessoais:**
 
-- 👩‍💻 Experiências adquiridas trabalhando na *@tambasa* com Analista de Infra:
+- 👩‍💻 Experiências adquiridas trabalhando na *@tambasa* com Analista de Infraestrutura:
   - Desenvolvimento Web
-  - Desenvolvimento full
+  - Desenvolvimento full stack
   - Produção de relatórios Técnicos
  
     
   
 - 👾 Meus hobbies são:
-  - Estudar sobre segurança da Informação;
+  - Estudar sobre tecnologia da Informação;
   - Viajar
-  - Academia ( Musculação | Calistenia )
+  - Academia
   - Hacking de hardware
   - Hacking de carros
   - Jogar jogos de mundo aberto;
