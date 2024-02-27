@@ -1,36 +1,28 @@
-# Seja bem-vinda e bem-vindo!
-
----
-
-<p align="left">
-  <b>Olá pessoal!</b>
-</p>
-
-<p align="left">
-  Eu chamo <b>Pedro Assis</b>.
-</p>
-
-<p align="left">
-  Meu nome é Pedro Assis, tenho 22 anos. <br />
-  Sou Analista e Desenvolvedor de Sistemas, trabalho com Analista de Infra na @tambasa.
-</p>
-
-<p align="left">
-  Sou graduado em Análise e Desenvolvimento de Sistemas pela PUC Minas.
-</p>
-
+<h1 align="center"> Seja bem vinda e bem vindo! </h1>
+<hr />
 <a href="https://github.com/PedrinhoAssis" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a>
-
+</a><br />
+<p alinhar="esquerda" >
+  <b>Olá pessoal!</b>
+</p>
 <a href="https://www.instagram.com/pedrinn.assiss?igsh=MTd6aTg5YXJ2ajh3&utm_source=qr" target="_blank">
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
-</a>
-
+</a><br />
+<p alinhar = "esquerda" >
+Eu chamo <b>Pedro Assis</b>.
+</p>
 <a href="https://www.linkedin.com/in/pedro-almeida-5427b3187?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
-<hr />
+
+<p alinhar = "esquerda" >
+Meu nome é Pedro Assis, tenho 22 anos <br />
+Sou Analista e Desenvolvedor de Sistemas, trabalho com Analista de Infra @tambasa </b>. <br/>
+</p>
+Sou graduado em Analise e Desenvolvimento de Sistemas pela PUC Minas.
+<br/>
+
 
 **Meus interesses pessoais:**
 
