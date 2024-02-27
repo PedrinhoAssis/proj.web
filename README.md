@@ -1,8 +1,10 @@
-<h1 align="center"> Seja bem vinda e bem vindo! </h1>
-<hr />
+<h1 align="center"> SEJA TODOS MUITO BEM VINDOS! </h1>
+
+
 <a href="https://github.com/PedrinhoAssis" target="_blank">
   <img align="right" src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
 </a><br />
+
 <p alinhar="esquerda" >
   <b>Olá pessoal!</b>
 </p>
@@ -10,28 +12,56 @@
   <img align="right" src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px">
 </a><br />
 <p alinhar = "esquerda" >
-Eu chamo <b>Pedro Assis</b>.
+Eu chamo <b>Pedro </b>.
 </p>
 <a href="https://www.linkedin.com/in/pedro-almeida-5427b3187?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
   <img align="right" src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
 </a>
 
 <p alinhar = "esquerda" >
-Meu nome é Pedro Assis, tenho 22 anos <br />
-Sou Analista e Desenvolvedor de Sistemas, trabalho com Analista de Infra @tambasa </b>. <br/>
+
+Permitam-me apresentar-me formalmente: meu nome é Pedro Assis. Tenho 22 anos de idade e atualmente desempenho o papel de Analista e Desenvolvedor de Sistemas, com foco em análise de infraestrutura na empresa @tambasa.
+</b>. <br/>
 </p>
 Sou graduado em Analise e Desenvolvimento de Sistemas pela PUC Minas.
+
+<br/>
+<br/>
+<br/>
 <br/>
 
 
-**Meus interesses pessoais:**
+**Principais Experiências Pessoais:**
 
-- 👩‍💻 Experiências adquiridas trabalhando na *@tambasa* com Analista de Infraestrutura:
-  - Desenvolvimento Web
-  - Desenvolvimento full stack
-  - Produção de relatórios Técnicos
- 
-    
+- 👩‍💻 Experiências adquiridas estudando na *@PONTIFÍCIA UNIVERSIDADE CATÓLICA DE MINAS GERAIS* com Analista e Desenvolvedor de Sistemas:
+  - Projetos baseados em problemas reais do mercado, possibilitando a construção de um portfólio ao longo do curso;
+  - Algoritmos e Estruturas de Dados
+  - Desenvolvimento Web (Front-End e Back-End)
+  - Engenharia de Software
+  - Gerenciamento de Projetos de TI
+  - Modelagem de Dados
+  - Programação Modular
+  - Desenvolvimento de Aplicações Móveis
+  - Cloud Computing
+  - Segurança Aplicada ao Desenvolvimento de Software
+  - Empreendedorismo e Inovação
+
+- 👩‍💻 Experiências adquiridas trabalhando na *@TAMBASA* com Analista de Infraestrutura:
+
+  - Realizar atendimento remoto e presencial aos usuários, oferecendo suporte para estações de trabalho e sistemas.
+  - Auxiliar na montagem, manutenção e suporte de computadores.
+  - Instalar, configurar e orientar usuários sobre softwares e hardwares.
+  - Realizar instalações de upgrades e correções para otimizar o desempenho dos equipamentos.
+  - Elaborar e manter a documentação técnica do ambiente de TI.
+  - Registrar atividades diárias e atribuir solicitações para equipes adequadas.
+  - Diagnosticar e resolver problemas através de interações com usuários.
+  - Treinar usuários em aplicativos disponíveis e realizar manutenção de equipamentos.
+  - Cadastrar acessos à rede e configurar equipamentos periféricos.
+  - Realizar testes de implementações e fornecer suporte de primeiro nível ao sistema WMS.
+
+<br/>
+<br/>
+<br/>
   
 - 👾 Meus hobbies são:
   - Estudar sobre tecnologia da Informação;
@@ -44,6 +74,10 @@ Sou graduado em Analise e Desenvolvimento de Sistemas pela PUC Minas.
 - 📫 Se quiser pode enviar um email para pedroassis1707@gmail.com.
 
 - 💼 Sou aficionado por tecnologia, por esse motivo estou sempre estudando e evoluindo na minha carreira;
+
+<br/>
+<br/>
+<br/>
 
 **Linguagens e ferramentas:**  
 
