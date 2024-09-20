@@ -29,8 +29,6 @@ Graduado em Análise e Desenvolvimento de Sistemas, com especialização em Enge
 <br/>
 <br/>
 <br/>
-<br/>
-
 
 **Principais Experiências Pessoais:**
 
@@ -75,7 +73,6 @@ Graduado em Análise e Desenvolvimento de Sistemas, com especialização em Enge
 
 - 💼 Sou aficionado por tecnologia, por esse motivo estou sempre estudando e evoluindo na minha carreira;
 
-<br/>
 <br/>
 <br/>
 
