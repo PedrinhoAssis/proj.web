@@ -20,10 +20,10 @@ Eu chamo <b>Pedro </b>.
 
 <p alinhar = "esquerda" >
 
-Permitam-me apresentar-me formalmente: meu nome é Pedro Assis. Tenho 22 anos de idade e atualmente desempenho o papel de Analista e Desenvolvedor de Sistemas, com foco em análise de infraestrutura na empresa @tambasa.
+Permitam-me apresentar-me formalmente: meu nome é Pedro Assis. Tenho 22 anos de idade e atualmente desempenho o papel de Analista e Desenvolvedor de Sistemas, com foco em Desenvolvimento, análise e infraestrutura de sistemas.
 </b>. <br/>
 </p>
-Sou graduado em Analise e Desenvolvimento de Sistemas pela PUC Minas.
+Sou graduado em Analise e Desenvolvimento de Sistemas, com pós graduação em engenharia de software pela PUC Minas.
 
 <br/>
 <br/>
@@ -46,7 +46,7 @@ Sou graduado em Analise e Desenvolvimento de Sistemas pela PUC Minas.
   - Segurança Aplicada ao Desenvolvimento de Software
   - Empreendedorismo e Inovação
 
-- 👩‍💻 Experiências adquiridas trabalhando na *@TAMBASA* com Analista de Infraestrutura:
+- 👩‍💻 Experiências adquiridas trabalhando na *@TAMBASA* com estagiario de sistemas e Infraestrutura:
 
   - Realizar atendimento remoto e presencial aos usuários, oferecendo suporte para estações de trabalho e sistemas.
   - Auxiliar na montagem, manutenção e suporte de computadores.
@@ -64,14 +64,13 @@ Sou graduado em Analise e Desenvolvimento de Sistemas pela PUC Minas.
 <br/>
   
 - 👾 Meus hobbies são:
-  - Estudar sobre tecnologia da Informação;
-  - Viajar
-  - Academia
-  - Hacking de hardware
-  - Hacking de carros
-  - Jogar jogos de mundo aberto;
-- 💬 Fique a vontade para me ligar, ficarei muito feliz em poder ajudar;
-- 📫 Se quiser pode enviar um email para pedroassis1707@gmail.com.
+- Estudar sobre tecnologia da Informação;
+- Viajar;
+- Academia;
+- Hacking de hardware;
+- Jogos de mundo aberto;
+- Fique a vontade para me ligar, ficarei muito feliz em poder ajudar;
+- Se quiser pode enviar um email para pedroassis1707@gmail.com.
 
 - 💼 Sou aficionado por tecnologia, por esse motivo estou sempre estudando e evoluindo na minha carreira;
 
