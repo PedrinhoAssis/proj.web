@@ -20,10 +20,11 @@ Eu chamo <b>Pedro </b>.
 
 <p alinhar = "esquerda" >
 
-Permitam-me apresentar-me formalmente: meu nome é Pedro Assis. Tenho 22 anos de idade e atualmente desempenho o papel de Analista e Desenvolvedor de Sistemas, com foco em Desenvolvimento, análise e infraestrutura de sistemas.
+Olá, meu nome é Pedro Assis, tenho 22 anos e atuo como Analista e Desenvolvedor de Sistemas. Minha expertise abrange desenvolvimento, análise e infraestrutura de sistemas, com foco em entregar soluções tecnológicas eficientes e escaláveis.
 </b>. <br/>
 </p>
-Sou graduado em Analise e Desenvolvimento de Sistemas, com pós graduação em engenharia de software pela PUC Minas.
+
+Graduado em Análise e Desenvolvimento de Sistemas, com especialização em Engenharia de Software pela PUC Minas.
 
 <br/>
 <br/>
